@@ -1,5 +1,5 @@
 # JP031
-"Platform for Product Circularity, which also solves components and  sourcing challenges"
+"E-Commerce Website for buying and selling Farming Products"
 
 # Mind Map
 
