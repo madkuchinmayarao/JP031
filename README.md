@@ -1,5 +1,5 @@
-# JP031
-"E-Commerce Website for buying and selling Farming Products"
+# JP031 "E-Commerce Website for Buying and Selling Farming Products"
+
 
 # 1. Problem Statement:
   The agricultural sector plays a vital role in providing food and resources to the population. However, farmers often face challenges when it comes to buying and selling farming products. They struggle to find reliable suppliers, compare prices, and access a wide range of products. On the other hand, buyers looking for farming products encounter difficulties in finding trusted sellers, verifying product quality, and accessing a diverse selection of items. There is a need for a convenient and efficient platform that connects farmers and buyers, enabling them to transact securely and access a wide range of farming products.
